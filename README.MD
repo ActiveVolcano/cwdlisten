@@ -9,3 +9,4 @@ Build:
 ```bash
 cc -std=gnu11 -Wall -s -o cwdlisten cwdlisten.c
 ```
+Prebuild binaries are there in releases page.
